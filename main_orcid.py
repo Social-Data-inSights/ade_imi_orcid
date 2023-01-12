@@ -1,0 +1,5 @@
+from main_download_articles import main_download_orcid
+from get_rts_missing import get_rts_missing
+
+main_download_orcid()
+get_rts_missing()
